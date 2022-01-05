@@ -1,0 +1,9 @@
+{
+	"item.tutorialmod.example_item": "Example Item",
+	"item.tutorialmod.rock_item": "Rock",
+	"entity.tutorialmod.rock": "Rock Entity",
+	"block.tutorialmod.black_marble": "Black Marble",
+	"item.tutorialmod.pokeball": "Poke Ball",
+	"entity.tutorialmod.pokeball": "Poke Ball Entity",
+	"item.tutorialmod.pokeball_filled": "Poke Ball Filled"
+}

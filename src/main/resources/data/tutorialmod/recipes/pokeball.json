@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "aaa",
+        "bcb",
+        "ddd"
+    ],
+    "key":
+    {
+        "a":
+        {
+            "item": "minecraft:redstone_block"
+        },
+        "b":
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        "c":
+        {
+        	"item": "minecraft:diamond"
+        },
+        "d":
+        {
+        	"item": "minecraft:iron_block"
+        }
+    },
+    "result":
+    {
+        "item": "tutorialmod:pokeball",
+        "count": 1
+    }
+}
